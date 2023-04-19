@@ -70,7 +70,7 @@ To simplify the process, you can both create a new branch and switch over to tha
 
 ## 5. Create a Feature Branch on the Remote Repo
 
-After you have created and switched over to your local feature branch, you should create a branch in the remote repository to track this branch. You can do this by using the command `git push --set-upstream origin <name-of-remote-feature-branch`. Make sure the names of your local and remote feature branches are identical to avoid any confusion.
+After you have created and switched over to your local feature branch, you should create a branch in the remote repository to track this branch. You can do this by using the command `git push --set-upstream origin <name-of-remote-feature-branch>` (minus the carrots). Make sure the names of your local and remote feature branches are identical to avoid any confusion.
 
 ![](Screenshot%202023-04-19%20at%2012.41.41%20PM.png)
 
